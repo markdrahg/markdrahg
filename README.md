@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm a Software Engineer with a focus on Full-Stack Web Development using the MERN stack (MongoDB, Express, React, Node.js).<br>🧠 I design and build scalable web applications and APIs with clean, maintainable code.<br>⚙️ I also develop algorithms and work on logic-heavy tasks using Python and C.<br>💡 Passionate about problem-solving, clean architecture, and lifelong learning.<br>📫 Open to collaboration and always up for a new challenge.
+Backend engineering, cybersecurity, AppSec & data — building, breaking, and understanding software systems.
 
 
 ## 🌐 Socials:
