@@ -12,8 +12,14 @@ Backend engineering, cybersecurity, AppSec & data — building, breaking, and un
 ![](https://nirzak-streak-stats.vercel.app/?user=markdrahg&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=markdrahg&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=markdrahg&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+### 🚀 Featured Projects
+
+| Project | Description | Tech Stack | Links |
+| :--- | :--- | :--- | :--- |
+| **RentMe** | Responsive cross-platform rental marketplace application with custom branding and user role flows. | `React Native` `Expo` `Node.js` `MongoDB` | [Repository](https://github.com/markdrahg) |
+| **StudyMate** | Academic platform enabling students to search, filter, and download study materials cleanly without registration. | `React` `TypeScript` `Tailwind CSS` | [Repository](https://github.com/markdrahg) |
+| **SignalScope AI** | Autonomous web intelligence platform generating real-time enterprise impact analytics. | `MERN` `Groq API` `Bright Data` | [Repository](https://github.com/markdrahg) |
+| **LocalVoice** | Civic platform empowering users to document and track regional infrastructure and environmental challenges. | `React` `Node.js` `Express` | [Repository](https://github.com/markdrahg) |
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
