@@ -71,6 +71,8 @@
 | **MoMoTag** |MoMoTag is a conceptual proposed acheitecture aimed to replaces the full legal name shown on mobile money confirmation screens with a persistent alias — closing a quiet privacy leak that today costs an attacker nothing to exploit. | `Conceptual Proposal` `Future Work` | [View](https://markdrahg.github.io/momotag/) |
 | **Verba** | A voice-to-text dictation application with intelligent command recognitio. | `React 18` `TypeScript` `Tailwind CSS` | [Repository](https://github.com/markdrahg/project_verba/tree/main) |
 | **SignalScope AI(Server Down)** | Autonomous web intelligence platform generating real-time enterprise impact analytics. | `MERN` `Groq API` `Bright Data` | [View](https://lablab.ai/ai-hackathons/brightdata-ai-agents-web-data-hackathon/cognitionx/signalscope-ai) |
+| **Data** | Data analytics. | `Microsoft Power BI` `Looker Studio` `Data Studio` | [Repository](hhttps://github.com/markdrahg/data) |
+
 
 ---
 
