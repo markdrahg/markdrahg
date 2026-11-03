@@ -9,7 +9,7 @@
   <p>
     <a href="https://linkedin.com/in/markdrah/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="mailto:neutral520@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://discord.gg/markdrah"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+</a>
   </p>
 </div>
 
@@ -71,7 +71,7 @@
 | **MoMoTag** |MoMoTag is a conceptual proposed acheitecture aimed to replaces the full legal name shown on mobile money confirmation screens with a persistent alias — closing a quiet privacy leak that today costs an attacker nothing to exploit. | `Conceptual Proposal` `Future Work` | [View](https://markdrahg.github.io/momotag/) |
 | **Verba** | A voice-to-text dictation application with intelligent command recognitio. | `React 18` `TypeScript` `Tailwind CSS` | [Repository](https://github.com/markdrahg/project_verba/tree/main) |
 | **SignalScope AI(Server Down)** | Autonomous web intelligence platform generating real-time enterprise impact analytics. | `MERN` `Groq API` `Bright Data` | [View](https://lablab.ai/ai-hackathons/brightdata-ai-agents-web-data-hackathon/cognitionx/signalscope-ai) |
-| **Data** | Data analytics. | `Microsoft Power BI` `Looker Studio` `Data Studio` | [Repository](hhttps://github.com/markdrahg/data) |
+| **Data** | Data analytics. | `Microsoft Power BI` `Looker Studio` `Data Studio` | [Repository](https://github.com/markdrahg/data) |
 
 
 ---
