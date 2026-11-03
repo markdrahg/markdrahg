@@ -19,7 +19,7 @@
 
 - 🔭 **Core Focus:** Building high-performance backend systems, REST APIs, and securing web architecture.
 - 🛡️ **Security & AppSec:** Exploring vulnerability assessment, defensive engineering, and secure system operations.
-- ⚙️ **Stack Mastery:** MERN Stack, Expo React Native, Python/Django, C#, and relational/non-relational databases.
+- ⚙️ **Stack Mastery:** MERN Stack, Expo React Native, Python, C, and relational/non-relational databases.
 - 🎯 **Current Endeavor:** Engineering scalable backend solutions, civic tech applications, and interactive full-stack software.
 
 ---
