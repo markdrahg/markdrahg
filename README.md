@@ -67,10 +67,10 @@
 
 | Project | Description | Tech Stack | Links |
 | :--- | :--- | :--- | :--- |
-| **Incognito Vault** | Upload a file behind a name + password. Retrieve it with the same name + password. Files auto-expire and are deleted after 7 days. | `React` `Express.js` `Node.js` `MongoDB` | [View](https://incognito-vault.vercel.app/) |
+| **Incognito Vault(Server Down)** | Upload a file behind a name + password. Retrieve it with the same name + password. Files auto-expire and are deleted after 7 days. | `React` `Express.js` `Node.js` `MongoDB` | [View](https://incognito-vault.vercel.app/) |
 | **MoMoTag** |MoMoTag is a conceptual proposed acheitecture aimed to replaces the full legal name shown on mobile money confirmation screens with a persistent alias — closing a quiet privacy leak that today costs an attacker nothing to exploit. | `Conceptual Proposal` `Future Work` | [View](https://markdrahg.github.io/momotag/) |
 | **Verba** | A voice-to-text dictation application with intelligent command recognitio. | `React 18` `TypeScript` `Tailwind CSS` | [Repository](https://github.com/markdrahg/project_verba/tree/main) |
-| **SignalScope AI** | Autonomous web intelligence platform generating real-time enterprise impact analytics. | `MERN` `Groq API` `Bright Data` | [View](https://lablab.ai/ai-hackathons/brightdata-ai-agents-web-data-hackathon/cognitionx/signalscope-ai) |
+| **SignalScope AI(Server Down)** | Autonomous web intelligence platform generating real-time enterprise impact analytics. | `MERN` `Groq API` `Bright Data` | [View](https://lablab.ai/ai-hackathons/brightdata-ai-agents-web-data-hackathon/cognitionx/signalscope-ai) |
 
 ---
 
