@@ -72,6 +72,7 @@
 | **Verba** | A voice-to-text dictation application with intelligent command recognitio. | `React 18` `TypeScript` `Tailwind CSS` | [Repository](https://github.com/markdrahg/project_verba/tree/main) |
 | **SignalScope AI(Server Down)** | Autonomous web intelligence platform generating real-time enterprise impact analytics. | `MERN` `Groq API` `Bright Data` | [View](https://lablab.ai/ai-hackathons/brightdata-ai-agents-web-data-hackathon/cognitionx/signalscope-ai) |
 | **Data** | Data analytics. | `Microsoft Power BI` `Looker Studio` `Data Studio` | [Repository](https://github.com/markdrahg/data) |
+| **Trunkophone** | An unnecessarily expressive elephant synthesizer. | `Prompt Engineering` `Google AI studio` | [View](https://trunkophone.ai.studio/) |
 
 
 ---
